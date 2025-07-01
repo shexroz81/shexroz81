@@ -25,7 +25,7 @@
 
 ### 📫 Aloqa:
 - Gmail: shexroz81@gmail.com
-- Telegram: [@shexroz_dev](https://t.me/shexroz_dev) *(agar bor bo‘lsa)*
+- Telegram: [@shexroz_dev](https://t.me/shexrozzz_777)
 - Portfolio: *(hozircha yo‘q – keyin qo‘shamiz)*
 
 ---
