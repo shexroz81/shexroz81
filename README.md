@@ -1,36 +1,12 @@
-<h1 align="center">👋 Salom, men Shexroz!</h1>
+👋 Hi there! I'm Shexroz — a passionate and self-driven frontend developer from Uzbekistan.
 
-<p align="center">
-  💻 Boshlovchi Web Developer <br>
-  ⚙️ HTML • CSS • Bootstrap • Git <br>
-  🚀 O‘sish, ishlab chiqish va sharing yo‘lida
-</p>
+💻 Currently learning and building with HTML, CSS, JavaScript, and Bootstrap. I'm also diving into React.js to expand my skills.
 
----
+🚀 My goal is to become a Full Stack Developer and work on global tech projects. I'm actively building my portfolio and gaining experience through freelance work.
 
-### 🧰 Texnologiyalarim:
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+🎯 I'm preparing to join a coding bootcamp in South Korea to take my skills to the next level.
 
----
-
-### 📈 Statistika:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shexroz81&show_icons=true&theme=radical" width="400" />
-</p>
-
----
-
-### 📫 Aloqa:
-- Gmail: shexroz81@gmail.com
-- Telegram: [@shexroz_dev](https://t.me/shexrozzz_777)
-- Portfolio: *(hozircha yo‘q – keyin qo‘shamiz)*
-
----
-
-> “Har kuni yangi narsa o‘rgan, o‘z ustingda ishlashni hech qachon to‘xtatma.” — Shexroz81
+📫 Let's connect! You can reach me via [your email] or check out my projects below.
 
 <!--
 **shexroz81/shexroz81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
